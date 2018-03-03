@@ -1,1 +1,1 @@
-#EditPlus 注册码生成
+# EditPlus 注册码生成
