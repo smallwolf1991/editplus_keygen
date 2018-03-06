@@ -70,5 +70,7 @@ function generate_editplus_regcode(username)
 	regcode[0] = result.charAt(0);
 	regcode[1] = result.charAt(1);
 
-	document.getElementById("regcode").value = regcode.join("");
+	return regcode.join("");
 }
+
+module.exports = generate_editplus_regcode;
