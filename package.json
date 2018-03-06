@@ -2,7 +2,7 @@
   "name": "editplus_keygen",
   "version": "1.0.0",
   "description": "",
-  "main": "editkeygen.js",
+  "main": "lib/editkeygen.js",
   "directories": {
     "test": "tests"
   },
